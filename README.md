@@ -15,9 +15,9 @@ This repository contains the code and data associated with the paper:
   - `preprocess_dat.py`: cleans data and applies trial/participant exclusions
   - `sim_rt_from_rpm.py`: generates simulated free RT based off model fit
   - `utils/`: helper functions
-- `dat/`: Data for the project
+- `dat/`: Data for the project. Hosted on [OSF](https://osf.io/dhkve/)
 - `figs/`: Figures generated from analyses
-- `fits/`: Model fits for the response preparation model and rolling logistic regression
+- `fits/`: Model fits for the response preparation model and rolling logistic regression. Hosted on [OSF](https://osf.io/dhkve/)
 - `results/`: Summary tables for the response preparation model and rolling logistic regression
 - `requirements.txt`: Python package requirements
 
