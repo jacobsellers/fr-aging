@@ -18,6 +18,7 @@ env/
 *.h5
 *.zip
 *.netcdf
+README_OLDDRAFT.md
 
 # OS
 .DS_Store

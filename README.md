@@ -72,18 +72,3 @@ pip install -r requirements.txt
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Citation
-If you use this code or data, please cite:
-
-```bibtex
-@article{Author2025Paper,
-  title   = {Full Paper Title},
-  author  = {Author, A. and Collaborator, B.},
-  journal = {Journal Name},
-  year    = {2025},
-  doi     = {10.xxxx/xxxxx}
-}
-```
