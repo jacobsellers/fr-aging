@@ -1,4 +1,4 @@
-# Inhibitory control and Aging
+# Inhibitory Control and Aging
 
 This repository contains the code and data associated with the paper:
 
