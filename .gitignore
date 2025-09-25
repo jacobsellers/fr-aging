@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Environments
+.venv/
+venv/
+env/
+.vscode/
+
+# Data
+*.csv
+*.tsv
+*.xlsx
+*.h5
+*.zip
+*.netcdf
+
+# OS
+.DS_Store
+Thumbs.db

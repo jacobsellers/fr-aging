@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Global slowing of response preparation explains age effects in inhibitory control tasks"
+authors:
+  - family-names: "Sellers"
+    given-names: "Jacob"
+    orcid: "https://orcid.org/0009-0009-5400-8108"
+  - family-names: "Zhang"
+    given-names: "Han"
+  - family-names: "Jonides"
+    given-names: "John"
+  - family-names: "Lee"
+    given-names: "Taraz"
+version: "1.0.0"
+date-released: 2025-09-24
+doi: "10.xxxx/xxxxx"
+license: "MIT"
