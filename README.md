@@ -27,7 +27,7 @@ This repository contains the code and data associated with the paper:
 
 ### Clone the repository
 ```bash
-git clone https://github.com/jacobsellers/paper-project.git
+git clone https://github.com/jacobsellers/fr-aging.git
 cd paper-project
 ```
 
