@@ -14,7 +14,7 @@ env/
 # Data
 *.csv
 *.tsv
-*.xlsx
+# *.xlsx
 *.h5
 *.zip
 *.netcdf

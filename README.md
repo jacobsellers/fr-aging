@@ -18,6 +18,7 @@ This repository contains the code and data associated with the paper:
 - `dat/`: Data for the project. Hosted on [OSF](https://osf.io/dhkve/)
 - `figs/`: Figures generated from analyses
 - `fits/`: Model fits for the response preparation model and rolling logistic regression. Hosted on [OSF](https://osf.io/dhkve/)
+- `forced-response-flanker-main`: contains forced-response flanker task code to be run with Psychopy. This is not used in the analysis.
 - `results/`: Summary tables for the response preparation model and rolling logistic regression
 - `requirements.txt`: Python package requirements
 
